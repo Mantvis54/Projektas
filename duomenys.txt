@@ -1,0 +1,16 @@
+1;BMW;318d GT;2014;135;E-Sys kodavimas;50
+2;Volkswagen;Golf R;2017;228;Stage 1 galios didinimas;250
+3;Audi;A4 B8;2012;125;EGR vožtuvo išprogramavimas;100
+4;BMW;530d;2015;190;DPF filtro šalinimas;180
+5;Skoda;Octavia RS;2018;180;Sportinio oro filtro montavimas;65
+6;Volkswagen;Passat B8;2016;110;Vairo kolonėlės adaptacija;40
+7;BMW;M3;2009;309;Naujas intercooleris;450
+8;Seat;Leon Cupra;2019;213;Stage 2 ir išmetimo sistema;800
+9;Mercedes-Benz;C220;2014;125;Klaidų trynimas ir diagnostika;30
+10;BMW;X5;2016;190;BimmerCode papildomos funkcijos;60
+11;Audi;A6 C7;2013;180;Pavarų dėžės (TCU) programavimas;200
+12;Volkswagen;Golf GTI;2015;162;Turbo hibrido montavimas;1200
+13;Volvo;XC60;2017;140;Pilnas aptarnavimas ir tepalai;150
+14;BMW;320i;2013;135;Spidometro apšvietimo keitimas;80
+15;Honda;Civic Type R;2018;235;Važiuoklės sportinis reguliavimas;300
+16;bmw;318 gt;2014;135;gt;10000
